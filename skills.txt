@@ -1,0 +1,5 @@
+postman
+terminal
+sql
+git
+devtools
